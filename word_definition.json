@@ -1,0 +1,716 @@
+{
+    "word_dictionary": [
+        {
+            "word": "Accomplish ",
+            "definition": "Achieve or complete successfully"
+        },
+        {
+            "word": "Attain ",
+            "definition": "Succeed in achieving"
+        },
+        {
+            "word": "Adapt ",
+            "definition": "Make something suitable for a new use or purpose"
+        },
+        {
+            "word": "Affordable ",
+            "definition": "Reasonably priced"
+        },
+        {
+            "word": "Accompany ",
+            "definition": "go somewhere with someone as a companion"
+        },
+        {
+            "word": "Analyse ",
+            "definition": "examine methodically and in detail"
+        },
+        {
+            "word": "Admire ",
+            "definition": "regard an object quality or person with respect or warm approval"
+        },
+        {
+            "word": "Associate ",
+            "definition": "connect someone or something with something else in one\u2019s mind"
+        },
+        {
+            "word": "Artificial ",
+            "definition": "made by human beings rather than occurring naturally"
+        },
+        {
+            "word": "Apparently ",
+            "definition": "as far as one knows or can see"
+        },
+        {
+            "word": "Anarchy ",
+            "definition": "a situation in which there is no organization and control, especially in society, because there is no effective government"
+        },
+        {
+            "word": "Anatomy ",
+            "definition": "the scientific study of the body and how its parts are arranged: "
+        },
+        {
+            "word": "Ancient ",
+            "definition": "of or from a long time ago, having lasted for a very long time: "
+        },
+        {
+            "word": "Abstract ",
+            "definition": "existing as an idea, feeling, or quality, not as a material object: "
+        },
+        {
+            "word": "Beside ",
+            "definition": "at the side of; next to"
+        },
+        {
+            "word": "Balance ",
+            "definition": "an even distribution of weight enabling someone or something to remain upright and steady"
+        },
+        {
+            "word": "Benefit ",
+            "definition": "an advantage or profit gained from something"
+        },
+        {
+            "word": "Boundary ",
+            "definition": "a line that marks the limits of an area"
+        },
+        {
+            "word": "Borrow ",
+            "definition": "take and use something that belongs to someone else with the intention of returning it"
+        },
+        {
+            "word": "Better ",
+            "definition": "of a more excellent or effective type or quality"
+        },
+        {
+            "word": "Babysitting ",
+            "definition": "the care of a child or children while the parents are out"
+        },
+        {
+            "word": "Backup ",
+            "definition": "help or support, or something that you have arranged in case your main plans, equipment, etc. go wrong"
+        },
+        {
+            "word": "Backdrop ",
+            "definition": "provide a background or setting for"
+        },
+        {
+            "word": "Bucketlist ",
+            "definition": "a number of experiences or achievements that a person hopes to have or accomplish during their lifetime"
+        },
+        {
+            "word": "Charge ",
+            "definition": "demand an amount as a price from someone for a service rendered or goods supplied"
+        },
+        {
+            "word": "Categorise ",
+            "definition": "place in a particular class or group"
+        },
+        {
+            "word": "Calculate ",
+            "definition": "determine the amount or number of something mathematically"
+        },
+        {
+            "word": "Conclusion ",
+            "definition": "the end or finish of an event or process"
+        },
+        {
+            "word": "Contrast ",
+            "definition": "the state of being strikingly different from something else in juxtaposition or close association"
+        },
+        {
+            "word": "Collide ",
+            "definition": "hit with force when moving"
+        },
+        {
+            "word": "Confuse ",
+            "definition": "cause someone to become bewildered or perplexed"
+        },
+        {
+            "word": "Cordially ",
+            "definition": "in a warm and friendly way"
+        },
+        {
+            "word": "Chase ",
+            "definition": "pursue in order to catch or catch up with"
+        },
+        {
+            "word": "Calcium ",
+            "definition": "a chemical element that is present in teeth, bones, and chalk"
+        },
+        {
+            "word": "Catalyst ",
+            "definition": "something that makes a chemical reaction happen more quickly without itself being changed"
+        },
+        {
+            "word": "Conference ",
+            "definition": "a formal meeting for discussion"
+        },
+        {
+            "word": "Challenge ",
+            "definition": "a call to take part in a contest or competition especially a duel"
+        },
+        {
+            "word": "Comedy ",
+            "definition": "a (type of) film, play, or book that is intentionally funny either in its characters or its action"
+        },
+        {
+            "word": "Dare ",
+            "definition": "have the courage to do something"
+        },
+        {
+            "word": "Delete ",
+            "definition": "to remove (part or all of) a written or electronic text"
+        },
+        {
+            "word": "Defend ",
+            "definition": "resist an attack made on someone or something"
+        },
+        {
+            "word": "Detect ",
+            "definition": "discover or identify the presence or existence of"
+        },
+        {
+            "word": "Detach ",
+            "definition": "leave or separate oneself from"
+        },
+        {
+            "word": "Destroy ",
+            "definition": "put an end to the existence of something by damaging or attacking it"
+        },
+        {
+            "word": "Differentiate ",
+            "definition": "recognize or ascertain what makes someone or something different"
+        },
+        {
+            "word": "Discrimination ",
+            "definition": "the unjust or prejudicial treatment of different categories of people or things especially on the grounds of race age or sex"
+        },
+        {
+            "word": "Distinguish ",
+            "definition": "recognize or treat someone or something as different"
+        },
+        {
+            "word": "Efficient ",
+            "definition": "achieving maximum productivity with minimum wasted effort or expense"
+        },
+        {
+            "word": "Effective ",
+            "definition": "successful in producing a desired or intended result"
+        },
+        {
+            "word": "Enormous ",
+            "definition": "very large in size quantity or extent"
+        },
+        {
+            "word": "Evidence ",
+            "definition": "the available body of facts or information indicating whether a belief or proposition is true or valid"
+        },
+        {
+            "word": "Eliminate ",
+            "definition": "completely remove or get rid of something"
+        },
+        {
+            "word": "Engagement ",
+            "definition": "an arrangement to do something or go somewhere at a fixed time"
+        },
+        {
+            "word": "Elementary ",
+            "definition": "relating to the basic elements of a subject"
+        },
+        {
+            "word": "Equation ",
+            "definition": "a mathematical statement in which you show that two amounts are equal using mathematical symbols"
+        },
+        {
+            "word": "Enigmatic ",
+            "definition": "difficult to interpret or understand"
+        },
+        {
+            "word": "Friction ",
+            "definition": "conflict or animosity caused by a clash of wills temperaments or opinions"
+        },
+        {
+            "word": "Fraction ",
+            "definition": "a small or tiny part of something"
+        },
+        {
+            "word": "Function ",
+            "definition": "an activity or purpose natural to or intended for a person or thing"
+        },
+        {
+            "word": "Fund ",
+            "definition": "a sum of money saved or made available for a particular purpose"
+        },
+        {
+            "word": "Frequent ",
+            "definition": "happening often"
+        },
+        {
+            "word": "Fable ",
+            "definition": "a short story typically with animals as characters conveying a moral"
+        },
+        {
+            "word": "Fabulous ",
+            "definition": "extraordinary"
+        },
+        {
+            "word": "Fantastic ",
+            "definition": "extraordinarily good or attractive"
+        },
+        {
+            "word": "Foreign ",
+            "definition": "belonging to a country other than one\u2019s own"
+        },
+        {
+            "word": "Fungus ",
+            "definition": "any of various types of organisms that get their food from decaying material or other living things: "
+        },
+        {
+            "word": "General ",
+            "definition": "affecting or concerning all or most people places or things"
+        },
+        {
+            "word": "Generous ",
+            "definition": "showing kindness toward others"
+        },
+        {
+            "word": "Gratitude ",
+            "definition": "the quality of being thankful"
+        },
+        {
+            "word": "Grateful ",
+            "definition": "feeling or showing an appreciation of kindness"
+        },
+        {
+            "word": "Genetic ",
+            "definition": "relating to genes or heredity"
+        },
+        {
+            "word": "Gigantic ",
+            "definition": "of very great size"
+        },
+        {
+            "word": "Gaze ",
+            "definition": "look steadily and intently"
+        },
+        {
+            "word": "Game ",
+            "definition": "a competitive form of play played according to rules and decided by skill strength or luck"
+        },
+        {
+            "word": "Gorgeous ",
+            "definition": "very attractive"
+        },
+        {
+            "word": "Genre ",
+            "definition": "a style or category of art music or literature"
+        },
+        {
+            "word": "Hurry ",
+            "definition": "move or act with great speed"
+        },
+        {
+            "word": "Holy ",
+            "definition": "dedicated to God or a religious purpose"
+        },
+        {
+            "word": "Hallucination ",
+            "definition": "an experience involving the apparent perception of something not present"
+        },
+        {
+            "word": "Heavenly ",
+            "definition": "of heaven divine"
+        },
+        {
+            "word": "Harmony ",
+            "definition": "the quality of forming a pleasing and consistent whole"
+        },
+        {
+            "word": "Hilarious ",
+            "definition": "extremely funny and causing a lot of laughter"
+        },
+        {
+            "word": "Hamburger ",
+            "definition": "a round, flat piece of minced beef, fried and usually eaten between two halves of a bread roll"
+        },
+        {
+            "word": "Harvest ",
+            "definition": "the product or result of an action"
+        },
+        {
+            "word": "Humanitarian ",
+            "definition": "concerned with or seeking to promote human welfare"
+        },
+        {
+            "word": "Highlight ",
+            "definition": "an outstanding part of an event or period of time"
+        },
+        {
+            "word": "Illuminate ",
+            "definition": "make something visible or bright by shining light on it"
+        },
+        {
+            "word": "Illustrate ",
+            "definition": "provide with pictures"
+        },
+        {
+            "word": "Imagination ",
+            "definition": "the action of forming new ideas or images or concepts of external objects not present to the senses"
+        },
+        {
+            "word": "Inferior ",
+            "definition": "lower in rank status or quality"
+        },
+        {
+            "word": "Impactful ",
+            "definition": "having a major effect"
+        },
+        {
+            "word": "Interior ",
+            "definition": "relating to the inside"
+        },
+        {
+            "word": "Improper ",
+            "definition": "not in accordance with accepted rules or standards"
+        },
+        {
+            "word": "Impossible ",
+            "definition": "not able to occur exist or be done"
+        },
+        {
+            "word": "Invisible ",
+            "definition": "unable to be seen"
+        },
+        {
+            "word": "Incentive ",
+            "definition": "a thing that motivates or encourages one to do something"
+        },
+        {
+            "word": "Iconic ",
+            "definition": "relating to or of the nature of an icon"
+        },
+        {
+            "word": "Jolly ",
+            "definition": "happy and cheerful"
+        },
+        {
+            "word": "Justice ",
+            "definition": "just behaviour or treatment"
+        },
+        {
+            "word": "Judicial ",
+            "definition": "relating to or done by a court or judge"
+        },
+        {
+            "word": "Judgement ",
+            "definition": "the ability to make considered decisions or come to sensible conclusions"
+        },
+        {
+            "word": "Junior ",
+            "definition": "denoting young or younger people"
+        },
+        {
+            "word": "Knowledge ",
+            "definition": "the theoretical or practical understanding of a subject"
+        },
+        {
+            "word": "Kind ",
+            "definition": "having or showing a friendly generous and considerate nature"
+        },
+        {
+            "word": "Keen ",
+            "definition": "having or showing eagerness or enthusiasm"
+        },
+        {
+            "word": "Keep ",
+            "definition": "have or retain possession of"
+        },
+        {
+            "word": "Keystroke ",
+            "definition": "the act of pressing down on a key on a computer"
+        },
+        {
+            "word": "Kidney ",
+            "definition": "either of a pair of small organs in the body that take away waste matter from the blood to produce urine: "
+        },
+        {
+            "word": "Lavish ",
+            "definition": "spending or using things that are more than necessary"
+        },
+        {
+            "word": "Luxurious ",
+            "definition": "extremely comfortable elegant or enjoyable especially in a way that involves great expense"
+        },
+        {
+            "word": "Lollipop ",
+            "definition": "a hard sweet on a stick"
+        },
+        {
+            "word": "Lovable ",
+            "definition": "inspiring or deserving love or affection"
+        },
+        {
+            "word": "Late ",
+            "definition": "doing something or taking place after the expected proper or usual time"
+        },
+        {
+            "word": "Linguistic ",
+            "definition": "relating to language"
+        },
+        {
+            "word": "Legend ",
+            "definition": "an extremely famous or notorious person especially in a particular field"
+        },
+        {
+            "word": "Loot ",
+            "definition": "goods especially private property taken from an enemy in war"
+        },
+        {
+            "word": "Loud ",
+            "definition": "producing or capable of producing much noise"
+        },
+        {
+            "word": "Luminous ",
+            "definition": "giving off light"
+        },
+        {
+            "word": "Levitate ",
+            "definition": "rise or cause to rise and hover in the air especially by means of supernatural or magical power"
+        },
+        {
+            "word": "Leave ",
+            "definition": "go away from"
+        },
+        {
+            "word": "Marginal ",
+            "definition": "relating to or situated at the edge of something"
+        },
+        {
+            "word": "Majestic ",
+            "definition": "having or showing impressive beauty"
+        },
+        {
+            "word": "Magnetic ",
+            "definition": "the ability to attract substances possessing a magnetic quality (eg: iron)"
+        },
+        {
+            "word": "Masculine ",
+            "definition": "having qualities or appearance traditionally associated with men"
+        },
+        {
+            "word": "Maternal ",
+            "definition": "relating to a mother"
+        },
+        {
+            "word": "Minimal ",
+            "definition": "of a minimum amount quantity or degree"
+        },
+        {
+            "word": "Manufacturing ",
+            "definition": "producing something on a large scale using machinery"
+        },
+        {
+            "word": "Materialistic ",
+            "definition": "excessively concerned with material possessions"
+        },
+        {
+            "word": "Neighbour ",
+            "definition": "a person living near or next door"
+        },
+        {
+            "word": "Native ",
+            "definition": "associated with the place or circumstances of a person\u2019s birth"
+        },
+        {
+            "word": "Narration ",
+            "definition": "the action or process of narrating a story"
+        },
+        {
+            "word": "Normal ",
+            "definition": "the usual or typical state or condition"
+        },
+        {
+            "word": "National ",
+            "definition": "relating to a nation"
+        },
+        {
+            "word": "Optimistic ",
+            "definition": "hopeful and confident about the future"
+        },
+        {
+            "word": "Optional ",
+            "definition": "available to be chosen but not obligatory"
+        },
+        {
+            "word": "Objective ",
+            "definition": "something that is planned aimed at or sought"
+        },
+        {
+            "word": "Ordinary ",
+            "definition": "Without any special or distinctive features"
+        },
+        {
+            "word": "Opportunity ",
+            "definition": "a set of circumstances that makes it possible to do something"
+        },
+        {
+            "word": "Practical ",
+            "definition": "concerned with the actual doing or use of something rather than with theory and ideas"
+        },
+        {
+            "word": "Publish ",
+            "definition": "prepare and issue for public sale distribution or readership"
+        },
+        {
+            "word": "Permit ",
+            "definition": "give authorization or consent to someone to do something"
+        },
+        {
+            "word": "Quadruple ",
+            "definition": "to become four times as big, or to multiply a number or amount by four"
+        },
+        {
+            "word": "Radius ",
+            "definition": "the length of a straight line joining the centre of a circle to its edge or the centre of a sphere to its surface"
+        },
+        {
+            "word": "Resign ",
+            "definition": "to give up a job or position by telling your employer that you are leaving"
+        },
+        {
+            "word": "Ribcage ",
+            "definition": "the structure of ribs that protects your heart and lungs in your chest"
+        },
+        {
+            "word": "Rhythm ",
+            "definition": "a strong pattern of sounds, words, or musical notes that is used in music, poetry, and dancing"
+        },
+        {
+            "word": "Sanction ",
+            "definition": "an official order, such as the stopping of trade, that is taken against a country in order to make it obey international law"
+        },
+        {
+            "word": "Sandpaper ",
+            "definition": "strong paper with sand or a similar rough substance stuck to one side, used for rubbing a surface in order to make it smoother"
+        },
+        {
+            "word": "Screwdriver ",
+            "definition": "a tool for turning screws, consisting of a handle joined to a metal rod shaped at one end to fit in the cut in the top of the screw"
+        },
+        {
+            "word": "Syndrome ",
+            "definition": "a combination of medical problems that shows the existence of a particular disease or mental condition"
+        },
+        {
+            "word": "Suspicious ",
+            "definition": "making you feel that something illegal is happening or that something is wrong"
+        },
+        {
+            "word": "Tablespoon ",
+            "definition": "a large spoon used for serving food or the amount that it holds"
+        },
+        {
+            "word": "Taxonomy ",
+            "definition": "a system for naming and organizing things, especially plants and animals, into groups that share similar qualities"
+        },
+        {
+            "word": "Threaten ",
+            "definition": "to tell someone that you will kill or hurt them or cause problems if they do not do what you want"
+        },
+        {
+            "word": "Toddler ",
+            "definition": "a young child, especially one who is learning or has recently learned to walk"
+        },
+        {
+            "word": "Toilet ",
+            "definition": "a bowl-shaped device with a seat that you sit on or stand near when emptying the body of urine or solid waste, or another device used for this purpose"
+        },
+        {
+            "word": "Touchscreen ",
+            "definition": "a computer screen that you touch to get information, buy something, etc."
+        },
+        {
+            "word": "Treadmill ",
+            "definition": "an exercise machine that consists of a moving strip or two step-like parts on which you walk without moving forward"
+        },
+        {
+            "word": "Ultimately ",
+            "definition": "in the end"
+        },
+        {
+            "word": "Unlawful ",
+            "definition": "not allowed by law"
+        },
+        {
+            "word": "Unlimited ",
+            "definition": "not limited; having the greatest possible amount, number, or level"
+        },
+        {
+            "word": "Unidentified ",
+            "definition": "whose name is not known or is being kept secret"
+        },
+        {
+            "word": "Victim ",
+            "definition": "someone or something that has been hurt, damaged, or killed or has suffered, either because of the actions of someone or something else, or because of illness or chance"
+        },
+        {
+            "word": "Victory ",
+            "definition": "an act of defeating an enemy or opponent in a battle"
+        },
+        {
+            "word": "Virtuous ",
+            "definition": "having good moral qualities and behaviour"
+        },
+        {
+            "word": "Visionary ",
+            "definition": "a person who has the ability to imagine how a country, society, industry, etc. will develop in the future and to plan in a suitable way"
+        },
+        {
+            "word": "Volcano ",
+            "definition": "a mountain with a large, circular hole at the top through which lava (= hot liquid rock) gases, steam, and dust are or have been forced out"
+        },
+        {
+            "word": "Warranty ",
+            "definition": "a written promise from a company to repair or replace a product that develops a fault within a particular period of time, or to do a piece of work again if it is not satisfactory"
+        },
+        {
+            "word": "Wheelchair ",
+            "definition": "a chair on wheels that people who are unable to walk use for moving around"
+        },
+        {
+            "word": "Woodpecker ",
+            "definition": "a bird that uses its strong beak to make holes in tree trunks in order to find insects to eat"
+        },
+        {
+            "word": "Wrinkle ",
+            "definition": "a small line in the skin caused by old age"
+        },
+        {
+            "word": "Wristband ",
+            "definition": "a piece of material that goes around the wrist, for example to hold a watch"
+        },
+        {
+            "word": "Yawn ",
+            "definition": "to open the mouth wide and take a lot of air into the lungs and slowly send it out, usually when tired or bored"
+        },
+        {
+            "word": "Yearn ",
+            "definition": "to wish very strongly, especially for something that you cannot have or something that is very difficult to have"
+        },
+        {
+            "word": "Yeast ",
+            "definition": "a type of fungus that is used in making alcoholic drinks such as beer and wine, and for making bread swell and become light"
+        },
+        {
+            "word": "Zebra ",
+            "definition": "an African wild animal that looks like a horse, with black or brown and white lines on its body"
+        },
+        {
+            "word": "Zest ",
+            "definition": "enthusiasm, eagerness, energy, and interest"
+        },
+        {
+            "word": "Zigzag ",
+            "definition": "a line or pattern that looks like a Z or a row of Zs joined together"
+        }
+    ]
+}
